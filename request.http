@@ -1,2 +1,2 @@
 ###
-POST http://localhost:7071/api/DurableFunctionsOrchestrationCSharp_HttpStart
+POST https://dotnetdurablemssql.azurewebsites.net/api/durablefunctionsorchestrationcsharp_httpstart
