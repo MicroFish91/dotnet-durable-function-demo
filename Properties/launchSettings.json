@@ -1,9 +1,9 @@
 {
-  "profiles": {
-    "dotnet_durable_base": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7083",
-      "launchBrowser": false
+    "profiles": {
+        "dotnet_durable_base": {
+            "commandName": "Project",
+            "commandLineArgs": "--port 7083",
+            "launchBrowser": false
+        }
     }
-  }
 }
